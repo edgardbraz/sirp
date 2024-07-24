@@ -60,16 +60,40 @@
                                 <h2 class="text-xl font-semibold text-black dark:text-white">Sobre o SIRP</h2>
 
                                 <p class="mt-4 text-sm/relaxed">
-                                    O Sistema Integrado de Registro Profissional (SIRP) te possibilita...
+                                O Sistema Integrado de Registro Profissional (SIRP) é uma plataforma inovadora desenvolvida para unificar o registro e a gestão de profissionais no âmbito do Confea/CREA em todo o Brasil. Projetado para modernizar e simplificar os processos, o SIRP facilita a mobilidade profissional e otimiza a experiência dos usuários, eliminando a necessidade de múltiplos registros estaduais e a complexidade da emissão de Anotações de Responsabilidade Técnica (ART).
                                 </p>
                             </div>
 
-                            <div class="pt-3 sm:pt-5 gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20]">
-                                    <h2 class="text-xl font-semibold text-black dark:text-white">Vantagens</h2>
+                            <div class="pt-3 sm:pt-5 gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#FF2D20] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#FF2D20] text-sm/relaxed">
+                                    <h2 class="text-xl font-semibold text-black dark:text-white">Principais Vantagens do Sistema Integrado de Registro Profissional (SIRP)</h2>
 
-                                    <p class="mt-4 text-sm/relaxed">
-                                        Com o SIRP você tem os benefícios de...
+                                    <p>O Sistema Integrado de Registro Profissional (SIRP) oferece diversas vantagens que transformam a experiência dos profissionais registrados no Confea/CREA:
                                     </p>
+
+                                    <ul>
+                                    <li>
+                                        <h3 class="text-xl font-semibold text-black dark:text-white">Mobilidade Profissional</h3>
+                                        <p>O SIRP permite um registro único com validade em todo o território nacional, eliminando a necessidade de múltiplos registros estaduais. Isso facilita a atuação dos profissionais em diferentes estados, respondendo rapidamente às demandas do mercado e aumentando a competitividade.</p>
+                                    </li>
+                                    <li>
+                                        <h3 class="text-xl font-semibold text-black dark:text-white">Redução de Burocracia</h3>
+                                        <p>A centralização e padronização dos processos de registro e emissão de Anotações de Responsabilidade Técnica (ARTs) simplificam significativamente a burocracia. Os profissionais podem acessar todas as suas informações e realizar operações administrativas de forma integrada e eficiente.</p>
+                                    </li>
+                                    <li>
+                                        <h3 class="text-xl font-semibold text-black dark:text-white">Eficiência Operacional</h3>
+                                        <p>Com dados sincronizados entre todos os CREAs, o SIRP melhora a eficiência operacional ao proporcionar um sistema único de gestão de informações e documentos. Isso reduz o tempo e os recursos necessários para cumprir diferentes requisitos estaduais, permitindo que os profissionais se concentrem na qualidade de seus serviços.</p>
+                                    </li>
+                                    <li>
+                                        <h3 class="text-xl font-semibold text-black dark:text-white">Segurança e Confiabilidade</h3>
+                                        <p>Utilizando tecnologia de ponta, o SIRP garante a segurança dos dados profissionais com recursos como autenticação multifator (MFA) e monitoramento contínuo. A centralização das informações e a padronização dos processos aumentam a confiabilidade do sistema, fortalecendo a transparência e a confiança entre os profissionais e seus clientes.</p>
+                                    </li>
+                                    <li>
+                                        <h3 class="text-xl font-semibold text-black dark:text-white">Transparência e Acesso Facilitado</h3>
+                                        <p>O SIRP oferece uma interface intuitiva e centralizada, onde os profissionais podem acessar seus registros, emitir ARTs e solicitar vistos de maneira simples e rápida. Isso garante acesso transparente às informações profissionais e ao histórico de ARTs, promovendo maior confiança e transparência no sistema.</p>
+                                    </li>
+                                    </ul>
+
+
                             </div>
 
 
